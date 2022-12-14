@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alanpromero
-- 👀 I’m interested in psychology and behavior analysis
+- 👀 I’m interested in psychology and behavior analysis (BS)
 - 🌱 I’m currently learning data science and artificial intelligence
 - 💞️ I’m looking to collaborate on psycholoy or data science proyects
 - 📫 How to reach me: romeroalanp@gmail.com
